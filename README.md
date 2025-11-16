@@ -16,10 +16,14 @@ Notes about execution environment
 Expected outputs (summary)
 - mp_problem1: printed statevectors and a GIF showing the Bloch-sphere evolution.
   Example printed statevectors:
-    |0⟩ (initial): [1.+0.j 0.+0.j]
+  
+    |0⟩: [1.+0.j 0.+0.j]
+  
     H|0⟩: [0.707107+0.j 0.707107+0.j]
+  
     ZH|0⟩: [ 0.707107+0.j -0.707107+0.j]
-    HZH|0⟩ (final): [0.+0.j 1.+0.j]
+  
+    HZH|0⟩: [0.+0.j 1.+0.j]
 
 - mp_problem2: truth tables for XNOR3, NAND3, OR3, NOR3 — all entries valid = True.
 
